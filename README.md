@@ -59,6 +59,8 @@ The barrier of entry should be minimal which require VERY STRONG opsec, and espe
 
 Focus on the fewest communication platforms possible in order not to lose everybody because of too many tools.
 
+Streamline work in order to have as much async written communication focusing on specific topics within a process of work, instead of large-scale live meetings going nowhere.
+
 ### In practice - tooling and processes
 
 - Use Discourse ONLY except for sensitive private conversations. Why Discourse?
