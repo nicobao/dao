@@ -66,7 +66,7 @@ Focus on the fewest communicatino platforms possible in order not to loose every
   - Discourse is very easy to use for non-technical people
   - Discourse can be _heavily_ and _easily_ customized to suit the DAO specfic needs
   - In particular, you can easily _vote_ on Discourse
-  - Discourse can has a strong authorization mechanism, the same Discourse can not be the same for 2 users depending on their rights if necessary
+  - Discourse can have a strong authorization mechanism, the same Discourse can not be the same for 2 users depending on their rights if necessary
   - Discourse is NOT a real-time chat so people actually _take time to think before writing_, and this way it is easier to prevent SPAM and NOISE
 
 The DAO SHALL abide by the specific rules:
