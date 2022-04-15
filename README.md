@@ -52,11 +52,11 @@ Contributors should be put up to speed FAST.
 
 The very first minutes a new contributors join in, he must have the tool to take action according to its specific skillset.
 
-After contributing to something, the feedback (accepting his contribution) SHALL be almost immediate. This generate happiness in the contributor brain who immediately feels attachment, and hence will be happy to keep contributing. That is, it is important to accept a technically incomplete action - and modify/improve it later instead of making the contributor wait for months before his action/proposals advance or is accepted. After being accepted he/she will be happy to take feedback and improve.
+After contributing to something, the feedback (accepting his contribution) SHALL be almost immediate. This generates happiness in the contributor brain who immediately feels attachment, and hence will be happy to keep contributing. It means that it is important to accept a technically incomplete action - and modify/improve it later instead of making the contributor wait for months before his action/proposals advance or is accepted. After being accepted he/she will be happy to take feedback and improve.
 
-The barrier of entry should be minimal which require VERY STRONG opsec, and especially in relation with software security (to which documents/information do the contributor has access to? how and who authorize him/her?)
+The barrier of entry should be minimal which require VERY STRONG opsec, and especially in relation with software security (to which documents/information do the contributor has access to? how and who authorize him/her?). The contributor must not have to wait for others and ask for too many information.
 
-Focus on the fewest communicatino platforms possible in order not to loose everybody with too many tools.
+Focus on the fewest communication platforms possible in order not to lose everybody because of too many tools.
 
 ### In practice - tooling and processes
 
