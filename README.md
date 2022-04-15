@@ -21,7 +21,8 @@ In many ways it relates to DAO. People who don’t know each other come together
 - The contributors don't know each others, come from different background, culture.
 - The contributors have _different motives_
 - The contributors have different skillsets
-- The contributors have different avaibilities
+- The contributors have different time availabilities
+- The contributors want to commit to the DAO at different levels (lightly as a hobby to 100% as a full-time job)
 - The contributors have different work habits
 - Some contributors are bad actors (bad actors are already plague in all organizations - but especially in the crypto space - see social engineering attack such as https://twitter.com/thomasg_eth/status/1492663192404779013?s=21). We want to isolate and throw away bad actors as fast as possible because they can and will _destroy_ any organization if left unaddressed.
 - The contributors primarily don't trust each other (mainly because of the reason above)
