@@ -10,7 +10,7 @@ In many ways it relates to DAO. People who don’t know each other come together
 - primarily my #1 inspiration is [Pieter Hintjens](https://fr.wikipedia.org/wiki/Pieter_Hintjens) lifework in general, his [blog](http://hintjens.com/), his [Social Architecture](https://hintjens.gitbooks.io/social-architecture/content/) book, the [ZeroMQ guide](https://zguide.zeromq.org/doc) and [C4](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html).
 - [Everything You Need To Know to Grow Open Source by Dan Allen - lead developer of asciidoctor](https://www.youtube.com/watch?v=a_vqg-go8XI)
 - [the Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law)
-- my short experience contributing to various open-source projects. I had good examples with RedHat (for a good example), and other bad experiences which taught me what not to do
+- my short experience contributing to various open-source projects. I had for example a nice experience contributing to RedHat's codebase, but I also have had bad experiences which taught me what not to do
 - my professional experiences in various style of organizations
 - [The Cathedral and The Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 - [Stephane Klein's personal notebook](https://github.com/stephane-klein/personnal-notebook) - for the style, not the content
