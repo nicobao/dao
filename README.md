@@ -63,6 +63,7 @@ Focus on the fewest communication platforms possible in order not to lose everyb
 - Use Discourse ONLY except for sensitive private conversations. Why Discourse?
 
   - Discourse is self-hosted, no risk of being banned by Discord/Telegram whatsover
+  - Discourse can be streamlined and visually customized for the specific goal of the DAO. Example: https://forum.hoprnet.org/
   - Discourse is very easy to use for non-technical people
   - Discourse can be _heavily_ and _easily_ customized to suit the DAO specfic needs
   - In particular, you can easily _vote_ on Discourse
