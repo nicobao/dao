@@ -46,7 +46,7 @@ You Must have _clearly_ defined the goal and the values of your organization and
 
 It's a democracy, it's decentralized BUT the project founders are VERY IMPORTANT. They set the goal for the organization, they are the _safeguards_ of the organization. Their role is to severely punish bad actors, and encourage good actors. Bad actors are bad because they don't abide to the explicit laws - a Protocol like [C4](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html).
 
-Little by little, good contributors can be contributed to `maintainers`. Maintainers are like project founders, they validate the work of good contributors and punish/expell bad actors.
+Little by little, good contributors can be promoted to `maintainers`. Maintainers are like project founders, they validate the work of good contributors and punish/expell bad actors.
 
 Contributors should be put up to speed FAST.
 
