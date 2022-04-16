@@ -94,7 +94,7 @@ The DAO SHALL abide by the specific rules:
 ### Incentives
 
 - We all know that the success story of Bitcoin relies on its smart economical incentives
-- However, economical incentive is NOT the most important here.
+- However, economical incentive is NOT the most important here. Bitcoin's story is one person running his computer and receiving free money. The money incentive is baked into the protocol. Bitcoin miners don't need to talk to each other at all. They can be enemies, and it's actually a feature. The purpose is totally different than with a DAO which tries to find common grounds between people towards a specific goal. DAO are human orgnaizations whereas Bitcoin is a cold blooded fundamentally neutral piece of infrastructure.
 - The most important is recognition. A thank you. And the feeling of belonging. See [Dan Allen video](https://www.youtube.com/watch?v=a_vqg-go8XI)
 - As an example, I have contributed to Gitcoin issue and received money, which is nice, but my code wasn't merged in production despite many thank you, and I didn't feel welcome to contribute more. On the other side, I have received a $10 T-Shirt for contributing to RedHat's codebase, and my code was immediately merged with a very smooth process experience. I felt better with the second option.
 - Plus, in crypto, many people are here only for the speculative part of it. Those people can be considered either bad actors which will find any way to get money for free, or bad workers: who is interested in an employee whose only motivation is money?
