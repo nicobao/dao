@@ -102,11 +102,41 @@ The DAO SHALL abide by the specific rules:
 
 ### Summary
 
+#### Who can draft a proposal?
+
+Everyone.
+
 ![draft_proposal](./draft_proposal.png)
+
+#### Who can vote for a proposal to held a Snapshot vote?
+
+Project Founders and maintainers:
 
 ![voting_proposal](./voting_proposal.png)
 
+#### How is opsec organized so contributors are up to speed asap and everyone feels ownership?
+
 ![opsec](./opsec.png)
+
+#### How are contributors paid? (if they want)
+
+In a blocked account for 10 years+ or until an important milestone is achieved.
+
+#### What's the KPIs?
+
+TBD by the specific DAO. Can be the number of new contributors interacting in the Discourse. The number of maintainers being promoted. The number of people arriving divided by the number of people leaving. The number/evolution of number of active contributors? The action taken?
+
+#### Who can ban/sanction a bad actor?
+
+Both maintainers and project founders can ban bad actor. It should be done according to the protocol C4-like that had been drafted. Clear rules should be created with clear sanctions.
+
+#### Who can revoke maintainers?
+
+TBD in the organizational protocol. But probably maintainers and should be able to vote to revoke their peer maintainers or sub-maintainers (make them just contributors). Sub-Maintainers are maintainers of a sub-pod of the pod.
+
+#### Who can veto a proposal?
+
+Only Project Founders can veto proposal. But this could be adapted in the specific C4 protocol.
 
 ## License
 
