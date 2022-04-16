@@ -76,17 +76,34 @@ The DAO SHALL abide by the specific rules:
 
 - Have a Sexy and Concise motto/goal BUT have a precise and comprehensive definition as to what is allowed, what is not, what is the precise goal of the organization, what are the values, and what happens if you trespass them. Write this down in a document following the protocol style. An example is [C4](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html).
 - Every conversation on Discourse SHALL be PUBLIC
+- Basically 3 statuses: project founders, contributors and maintainers
+- Project Founders are maintainers of all pods
+- By default everyone is a contributor to every pod
+- Good actors (contributors who have contributed quality work) SHOULD be proposed to become MAINTAINER role directly
 - Use a password manager with ADVANCED authorization mechanism such as [1password Business](https://1password.com/teams/pricing). 1password Business also serve as a secure Cloud to share documents. Project Founders SHALL remain the sole OWNER/ADMIN of the password manager.
 - Project founders SHALL REMAIN the sole Gnosis Safe Owners for security's sake
 - Project founders MAY create smaller accounts/gnosis safe and give away control to them to trusted maintainers (good contributors who have proven themselves) to carry on operational tasks with a specific budget
 - Project founders SHOULD create sub vaults within the password manager to share sensitive documents & credentials with specific pods
 - Maintainers in pods SHOULD create as many subpods as possible with associated specific password manager's sub vaults
-- Basically 3 statuses: project founders, contributors and maintainers
-- Project Founders are maintainers of all pods
-- By default everyone is a contributor to every pod
-- Good actors (contributors who have contributed quality work) SHOULD be proposed to become MAINTAINER role directly
 - No need to ask for permission if you're doing something that's not harming the DAO or doesn't cost money
 - If the action requires money, then the contributors should draft a proposal
 - Only the maintainers of the specific pod and the project owners vote for a proposal to be accepted for a Snapshot general vote
 - Project Founder vote count for the same as a maintainer
 - Project Founders SHALL veto if the proposal is against the core values of the DAO
+
+### Incentives
+
+- We all know that the success story of Bitcoin relies on its smart economical incentives
+- However, economical incentive is NOT the most important here.
+- The most important is recognition. A thank you. And the feeling of belonging. See [Dan Allen video](https://www.youtube.com/watch?v=a_vqg-go8XI)
+- As an example, I have contributed to Gitcoin issue and received money, which is nice, but my code wasn't merged in production despite many thank you, and I didn't feel welcome to contribute more. On the other side, I have received a $10 T-Shirt for contributing to RedHat's codebase, and my code was immediately merged with a very smooth process experience. I felt better with the second option.
+- Plus, in crypto, many people are here only for the speculative part of it. Those people can be considered either bad actors which will find any way to get money for free, or bad workers: who is interested in an employee whose only motivation is money?
+- It's better to give people coins and block it for 10 years or until a milestone for the purpose of the DAO has been reached. It gives people a sense of alignment, a sense of belonging. Besides it is good for the asset's price because you can lock a large portion of the supply.
+
+### Summary
+
+TODO
+
+## License
+
+BSD-2-Clause Plus Patent License
