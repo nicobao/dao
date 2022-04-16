@@ -102,7 +102,11 @@ The DAO SHALL abide by the specific rules:
 
 ### Summary
 
-TODO
+![draft_proposal](./draft_proposal.png)
+
+![voting_proposal](./voting_proposal.png)
+
+![opsec](./opsec.png)
 
 ## License
 
