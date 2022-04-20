@@ -122,7 +122,7 @@ Project Founders and maintainers:
 
 In a blocked account for 10 years+ or until an important milestone is achieved.
 
-#### What's the KPIs?
+#### What are the KPIs?
 
 TBD by the specific DAO. Can be the number of new contributors interacting in the Discourse. The number of maintainers being promoted. The number of people arriving divided by the number of people leaving. The number/evolution of number of active contributors? The action taken?
 
